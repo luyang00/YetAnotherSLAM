@@ -1,2 +1,7 @@
 *.so
 .vscode/
+dataset/rgbd_dataset_freiburg1_room/
+build/
+lib/
+bin/
+
